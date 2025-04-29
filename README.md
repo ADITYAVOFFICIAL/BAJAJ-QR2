@@ -74,7 +74,7 @@ The application interacts with the following backend endpoints hosted at `https:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ADITYAVOFFICIAL/BAJAJ-QR2.git
     cd adityavofficial-bajaj-qr2
     ```
 
@@ -121,8 +121,8 @@ This application can be deployed to any static web hosting provider. Follow the 
 *   **Build Command:** `npm run build`
 *   **Output Directory:** `dist`
 
-*   **Deployed Application Link:** [Link to your deployed application]
-*   **GitHub Repository Link:** [Link to your GitHub repository]
+*   **Deployed Application Link:** [https://bajaj-qr-2.vercel.app/]
+*   **GitHub Repository Link:** [https://github.com/ADITYAVOFFICIAL/BAJAJ-QR2]
 
 ## Key Components and Logic Explained
 
